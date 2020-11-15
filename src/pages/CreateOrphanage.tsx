@@ -26,7 +26,7 @@ export default function CreateOrphanage() {
     //descontruir o evento event
     const { lat, lng } = event.latlng;
 
-    console.log(event.latlng);
+    //console.log(event.latlng);
 
     //recebe os dados de latitude e logitude selecionado
     setPosition({
